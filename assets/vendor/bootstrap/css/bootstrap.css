@@ -598,6 +598,8 @@ progress {
 }
 
 .img-fluid {
+  display: flex;
+  justify-content: center;
   max-width: 100%;
   height: 100%;
 }
